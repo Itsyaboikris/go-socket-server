@@ -59,7 +59,7 @@ BenchmarkConcurrentConnections-8    100    15234859 ns/op
 ```
 
 ### Contact
-Your Name - @yourusername
-Project Link: https://github.com/yourusername/go_socket_server
+Your Name - @itsyaboikris
+Project Link: https://github.com/itsyaboikris/go_socket_server
 
 
